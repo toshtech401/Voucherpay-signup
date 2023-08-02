@@ -63,5 +63,8 @@ button{
     display: flex;
     text-align: center;
   }
+  .App{
+    width: 100%;
+  }
 }
 
