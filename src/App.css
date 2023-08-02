@@ -52,3 +52,13 @@ button{
   text-align: center;
 }
 
+@media screen and (max-width:950px) {
+  .msme{
+    align-items: center;
+  }
+  .one{
+    width: 100%;
+  }
+
+}
+
