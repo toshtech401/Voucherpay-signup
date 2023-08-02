@@ -59,6 +59,9 @@ button{
   .one{
     width: 100%;
   }
-
+  .msme h1{
+    display: flex;
+    text-align: center;
+  }
 }
 
